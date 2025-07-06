@@ -1,0 +1,35 @@
+﻿@using MVC_2.Models
+
+@model CalculatorViewModel
+
+<form method="POST" action="Calculate">
+	<div class="mb-3">
+		<label asp-for="@Model.A"></label>
+		<input asp-for="@Model.A"/><br />
+		<span asp-validation-for="@Model.A"></span>
+	</div>
+
+	<div class="mb-3">
+		<input type="radio" asp-for="@Model.Operation" value="+" checked>
+		<label asp-for="@Model.Operation">+</label>
+		<input type="radio" asp-for="@Model.Operation" value="-">
+		<label asp-for="@Model.Operation">-</label>
+		<input type="radio" asp-for="@Model.Operation" value="*">
+		<label asp-for="@Model.Operation">*</label>
+		<input type="radio" asp-for="@Model.Operation" value="/">
+		<label asp-for="@Model.Operation">/</label>
+	</div>
+	
+	<div class="mb-3">
+		<label asp-for="@Model.B"></label>
+		<input asp-for="@Model.B" />
+		<span asp-validation-for="@Model.B"></span>
+	</div>
+
+	<button type="submit">Посчитать</button>
+</form>
+
+@if(Model.Result != null) 
+{
+	<p>@Model.Result</p>
+}

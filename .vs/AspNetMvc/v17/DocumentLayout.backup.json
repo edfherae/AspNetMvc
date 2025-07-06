@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A58CEC8F-6617-4DB2-954F-331827F0B32F}|MVC_2\\MVC_2.csproj|c:\\users\\nout\\desktop\\sourse\\aspnetmvc\\mvc_2\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58CEC8F-6617-4DB2-954F-331827F0B32F}|MVC_2\\MVC_2.csproj|solutionrelative:mvc_2\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58CEC8F-6617-4DB2-954F-331827F0B32F}|MVC_2\\MVC_2.csproj|c:\\users\\nout\\desktop\\sourse\\aspnetmvc\\mvc_2\\models\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58CEC8F-6617-4DB2-954F-331827F0B32F}|MVC_2\\MVC_2.csproj|solutionrelative:mvc_2\\models\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58CEC8F-6617-4DB2-954F-331827F0B32F}|MVC_2\\MVC_2.csproj|c:\\users\\nout\\desktop\\sourse\\aspnetmvc\\mvc_2\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58CEC8F-6617-4DB2-954F-331827F0B32F}|MVC_2\\MVC_2.csproj|solutionrelative:mvc_2\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58CEC8F-6617-4DB2-954F-331827F0B32F}|MVC_2\\MVC_2.csproj|c:\\users\\nout\\desktop\\sourse\\aspnetmvc\\mvc_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58CEC8F-6617-4DB2-954F-331827F0B32F}|MVC_2\\MVC_2.csproj|solutionrelative:mvc_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_2\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_2\\Program.cs",
+              "RelativeToolTip": "MVC_2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:15:56.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_2\\Models\\CalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_2\\Models\\CalculatorViewModel.cs",
+              "ToolTip": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_2\\Models\\CalculatorViewModel.cs",
+              "RelativeToolTip": "MVC_2\\Models\\CalculatorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:24:27.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_2\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_2\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_2\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "MVC_2\\Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T09:48:04.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_2\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "MVC_2\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_2\\Controllers\\CalculatorController.cs*",
+              "RelativeToolTip": "MVC_2\\Controllers\\CalculatorController.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:46:54.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

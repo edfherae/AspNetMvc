@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "rihNChL8aw3o9X4yMja2+94i1mh3OX2O4UJAe+kFWDI=",
+  "Source": "MVC_2",
+  "BasePath": "_content/MVC_2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVC_2\\wwwroot",
+      "Source": "MVC_2",
+      "ContentRoot": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_2\\wwwroot\\",
+      "BasePath": "_content/MVC_2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
