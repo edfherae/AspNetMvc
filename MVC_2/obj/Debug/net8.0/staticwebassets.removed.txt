@@ -1,0 +1,2 @@
+E:\Пользователи\Desktop\academy\source\repos\AspNetMvc\MVC_2\wwwroot\bootstrap\dist\css\bootstrap.min.css
+E:\Пользователи\Desktop\academy\source\repos\AspNetMvc\MVC_2\wwwroot\bootstrap\dist\js\bootstrap.bundle.min.js

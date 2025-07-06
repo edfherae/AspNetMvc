@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_1\\MVC_1.csproj": {}
+    "E:\\Пользователи\\Desktop\\academy\\source\\repos\\AspNetMvc\\MVC_1\\MVC_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_1\\MVC_1.csproj": {
+    "E:\\Пользователи\\Desktop\\academy\\source\\repos\\AspNetMvc\\MVC_1\\MVC_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_1\\MVC_1.csproj",
+        "projectUniqueName": "E:\\Пользователи\\Desktop\\academy\\source\\repos\\AspNetMvc\\MVC_1\\MVC_1.csproj",
         "projectName": "MVC_1",
-        "projectPath": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_1\\MVC_1.csproj",
-        "packagesPath": "C:\\Users\\Nout\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nout\\Desktop\\Sourse\\AspNetMvc\\MVC_1\\obj\\",
+        "projectPath": "E:\\Пользователи\\Desktop\\academy\\source\\repos\\AspNetMvc\\MVC_1\\MVC_1.csproj",
+        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
+        "outputPath": "E:\\Пользователи\\Desktop\\academy\\source\\repos\\AspNetMvc\\MVC_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nout\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,2 @@
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
